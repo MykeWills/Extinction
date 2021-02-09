@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Missle
+  - LaserLVL1
+  - LaserLVL2
+  - LaserLVL3
+  - LaserLVL4
+  - Gauss
+  - MissileAmmoPickUp
+  - BlueKey
+  - RedKey
+  - YellowKey
+  - EnemyLaserLVL1
+  - EnemyLaserLVL2
+  - EnemyLaserLVL3
+  - EnemyLaserLVL4
+  - MissileAmmo
+  - GaussAmmo
+  - Energy
+  - Shield
+  - Life
+  - EnergyRefill
+  - EnemyMissile
+  - DrillEnemy
+  - IonMinerEnemy
+  - Lava
+  - NearLava
+  - Slime
+  - NearSlime
+  - CheckPoint
+  - LaserPickUp
+  - Main
+  - BeatLevel
+  - Teleport
+  - Teleporter
+  - BombardierEnemy
+  - LaserBoss
+  - DrillBoss
+  - BombBoss
+  - OmegaBoss
+  - EnemyPlasma
+  - Plasma
+  - GaussCannonPickUp
+  - RocketAmmo
+  - RocketsAmmo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullet
+  - Player
+  - Enemy
+  - Laser
+  - Door
+  - Emitter
+  - Radar
+  - EnemyMissile
+  - EnemyLaser
+  - Missile
+  - MainCanvas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

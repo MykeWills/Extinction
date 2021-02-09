@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 03142a3e32c9ff04a8fa3b33d6b3e85c
+timeCreated: 1511880912
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bombardier_4:pCube1
+    100002: Bombardier_4:pCube2
+    100004: Bombardier_4:pCylinder1
+    100006: Bombardier_4:pCylinder2
+    100008: Bombardier_4:pCylinder3
+    100010: Bombardier_4:pCylinder4
+    100012: Bombardier_4:pCylinder5
+    100014: Bombardier_4:pCylinder6
+    100016: Bombardier_4:pCylinder7
+    100018: Bombardier_4:pCylinder8
+    100020: Bombardier_4:polySurface1
+    100022: Bombardier_4:polySurface2
+    100024: Bombardier_4:polySurface3
+    100026: Bombardier_4:polySurface4
+    100028: Bombardier_4:transform1
+    100030: Bombardier_4:transform10
+    100032: Bombardier_4:transform11
+    100034: Bombardier_4:transform12
+    100036: Bombardier_4:transform13
+    100038: Bombardier_4:transform14
+    100040: Bombardier_4:transform2
+    100042: Bombardier_4:transform3
+    100044: Bombardier_4:transform4
+    100046: Bombardier_4:transform5
+    100048: Bombardier_4:transform6
+    100050: Bombardier_4:transform7
+    100052: Bombardier_4:transform8
+    100054: Bombardier_4:transform9
+    100056: //RootNode
+    100058: Weapon_Autogun:Weapon_Autogun1
+    400000: Bombardier_4:pCube1
+    400002: Bombardier_4:pCube2
+    400004: Bombardier_4:pCylinder1
+    400006: Bombardier_4:pCylinder2
+    400008: Bombardier_4:pCylinder3
+    400010: Bombardier_4:pCylinder4
+    400012: Bombardier_4:pCylinder5
+    400014: Bombardier_4:pCylinder6
+    400016: Bombardier_4:pCylinder7
+    400018: Bombardier_4:pCylinder8
+    400020: Bombardier_4:polySurface1
+    400022: Bombardier_4:polySurface2
+    400024: Bombardier_4:polySurface3
+    400026: Bombardier_4:polySurface4
+    400028: Bombardier_4:transform1
+    400030: Bombardier_4:transform10
+    400032: Bombardier_4:transform11
+    400034: Bombardier_4:transform12
+    400036: Bombardier_4:transform13
+    400038: Bombardier_4:transform14
+    400040: Bombardier_4:transform2
+    400042: Bombardier_4:transform3
+    400044: Bombardier_4:transform4
+    400046: Bombardier_4:transform5
+    400048: Bombardier_4:transform6
+    400050: Bombardier_4:transform7
+    400052: Bombardier_4:transform8
+    400054: Bombardier_4:transform9
+    400056: //RootNode
+    400058: Weapon_Autogun:Weapon_Autogun1
+    2300000: Weapon_Autogun:Weapon_Autogun1
+    3300000: Weapon_Autogun:Weapon_Autogun1
+    4300000: Weapon_Autogun:Weapon_Autogun1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
