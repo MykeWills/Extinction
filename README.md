@@ -1,9 +1,7 @@
-# Extinction
-
 ![image](https://static.wixstatic.com/media/0e8e62_1aaea562743f44b68d7f1ca2432574e0~mv2.jpg)
 
-# // DestinyVenture
-> 5 month solo/team project
+# // Extinction
+> 1 month team project
  
 ## **|| Introduction ||**
 Extinction is a six dimentions of freedom game built based from the Descent PC game by Parallax Software. 
