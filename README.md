@@ -50,12 +50,12 @@ All sound effects are credited to the people of freesound.
 
 ## **|| Game Play ||**
 
-> **Level 1 Part 1**
-_https://www.youtube.com/watch?v=zVEkBPvw0TA&t=164s_
-> **Level 1 Part 2**
-_https://www.youtube.com/watch?v=WMGRDf9DHfs&t=38s_
+> **Level 1 - Part 1**
+* _https://www.youtube.com/watch?v=zVEkBPvw0TA&t=164s_
+> **Level 1 - Part 2**
+* _https://www.youtube.com/watch?v=WMGRDf9DHfs&t=38s_
 > **Level 3**
-_https://www.youtube.com/watch?v=YB5Iih_uWiY&t=92s_
+* _https://www.youtube.com/watch?v=YB5Iih_uWiY&t=92s_
 
 **Since this is a team based project, the screenshots below are a display of my work only.**
 
